@@ -1,0 +1,26 @@
+nav {
+    background-color: rgb(247, 108, 108);
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+  
+  h1 {
+    margin: 0;
+    text-align: left;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  a:hover {
+    background-color: transparent;
+  }
+
+  
+  

@@ -1,0 +1,11 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+section {
+    background-color: gainsboro;
+    padding: 50px;
+}
+
+.btn_see{
+    margin-right: 25px;
+}
